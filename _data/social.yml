@@ -5,3 +5,15 @@
 - sitename: Luogu
   name: zhshh
   url: https://www.luogu.org/space/show?uid=58321
+
+- sitename: QQ
+  name: 865564024 (ID zsh) 单击打开QQ
+  url: tencent://message/?uin=865564024
+
+- sitename: QQ邮箱
+  name: 865564024@qq.com (单击发信)
+  url: mailto:865564024@qq.com
+
+- sitename: Outlook邮箱
+  name: zhang2517@outlook.com (单击发信)
+  url: mailto:zhang2517@outlook.com
