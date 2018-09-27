@@ -47,6 +47,14 @@ navs:
     label: 链接
 
   -
+    href: /down/
+    label: 下载
+
+  -
+    href: /qwq/
+    label: 测试分区
+
+  -
     href: /about/
     label: 关于
 
@@ -80,6 +88,14 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
+
+    down:
+        output: true
+        permalink: /down/:path/
+
+    qwq:
+        output: true
+        permalink: /qwq/:path/
 
 repository: zsh2517/newblog
 

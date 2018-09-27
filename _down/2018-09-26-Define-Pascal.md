@@ -1,6 +1,6 @@
 ---
-layout: wiki
-title: define
+layout: down
+title: define233
 categories: cpp life
 description: some word here
 keywords: 
@@ -28,9 +28,7 @@ ______ _______ ________ ____
     ___(__)___________
     ____________(_ ______________ __) ___________
 _____
-```
 
-```cpp
 //#include <C:\\users\Administrator\\Desktop\\pascal.h>
 //------------------------pascal.h------------------------ —  口  ×
 #include <iostream>
