@@ -1,8 +1,8 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: OI 知识 字符串 hash
+title: 字符串和hash
+categories: OI 知识 字符串 hash
+description: 字符串和字符串hash
 keywords: 字符串 hash
 
 ---

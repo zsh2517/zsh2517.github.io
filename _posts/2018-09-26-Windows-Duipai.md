@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: windows下对拍及其应用
 title: template page
 categories: OI windows 对拍
 description: windows下面的对拍介绍
