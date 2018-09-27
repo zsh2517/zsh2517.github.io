@@ -1,23 +1,11 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: Capella
+  url: https://www.cnblogs.com/capella
 
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: maoxiangui
+  url: http://www.maoxiangui.com/
 
-- name: 只宁静不致远
-  url: http://zxning.github.io
+- name: new2zy
+  url: https://www.luogu.org/blog/new2zy/
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
-
-- name: 日新亭
-  url: http://www.fengerzh.com/
-
-- name: 尧哥
-  url: http://www.shishuyao.com
-
-- name: 叮咚购
-  url: http://www.ringwang.com/
-
-- name: wanandroid
-  url: http://www.wanandroid.com/
+- name: makico
+  url: http://makico.xyz/
