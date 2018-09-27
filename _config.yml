@@ -94,7 +94,7 @@ collections:
         permalink: /down/:path/
 
     qwq:
-        output: true
+        output: false
         permalink: /qwq/:path/
 
 repository: zsh2517/newblog
