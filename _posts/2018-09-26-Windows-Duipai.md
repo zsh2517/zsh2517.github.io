@@ -1,6 +1,6 @@
 ---
-layout: windows下对拍及其应用
-title: template page
+layout: post
+title: windows下对拍及其应用
 categories: OI windows 对拍
 description: windows下面的对拍介绍
 keywords: windows 对拍
