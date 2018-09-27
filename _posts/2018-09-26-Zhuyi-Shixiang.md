@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 靠前注意事项
+title: 考前注意事项
 categories: OI warnings
-description: 靠前注意事项
-keywords: 靠前注意事项 warnings
+description: 考前注意事项
+keywords: 考前注意事项 warnings
 ---
 
 # 注意事项
