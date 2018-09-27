@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 并查集
-categories: OI 知识 并查集
+categories: OI 知识 并查集 数据结构
 description: 简化版本的并查集
 keywords: 并查集 
 ---

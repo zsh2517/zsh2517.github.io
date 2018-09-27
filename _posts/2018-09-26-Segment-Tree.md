@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 线段树模板
-categories: OI 线段树 题解 知识
+categories: OI 数据结构 线段树 题解 知识
 description: some word here
 keywords: 线段树 区间
 ---

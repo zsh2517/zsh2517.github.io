@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最小生成树
-categories: OI 图论 最小生成树 知识
+categories: OI 图论 最小生成树 知识 算法
 description: 最小生成树 相关的算法那
 keywords: 最小生成树 prim kruskal
 ---

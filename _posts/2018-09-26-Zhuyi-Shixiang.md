@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 考前注意事项
-categories: OI warnings
+categories: OI 实用
 description: 考前注意事项
 keywords: 考前注意事项 warnings
 ---

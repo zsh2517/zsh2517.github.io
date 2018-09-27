@@ -1,7 +1,7 @@
 ---
 layout: post
 title: windows下对拍及其应用
-categories: OI windows 对拍
+categories: OI 对拍 实用
 description: windows下面的对拍介绍
 keywords: windows 对拍
 ---
