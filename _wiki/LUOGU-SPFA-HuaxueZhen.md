@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: 诗一首 By.spfa
+title: 【歌词】化学镇 By.spfa
 categories: 
-description: 诗一首
+description: 化学镇
 keywords: 
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)

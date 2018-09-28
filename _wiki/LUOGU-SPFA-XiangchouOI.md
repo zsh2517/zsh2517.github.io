@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: 诗一首 By.spfa
+title: 乡愁OI版 By.spfa
 categories: 
-description: 诗一首
+description: 乡愁OI版
 keywords: 
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
