@@ -8,7 +8,7 @@ menu: 下载
 permalink: /down/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 分享是一种美德。
 
 <ul class="listing">
 {% for down in site.down %}

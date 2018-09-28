@@ -1,9 +1,10 @@
 ---
 layout: down
-title: down Template
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 软件下载列表
+categories: OI
+description: 建议软件下载列表。
+keywords: 
 ---
 
-Content here
+#IDE 
+
