@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+description: WIKI是什么鬼、、
+keywords: 维基, W
 comments: false
 menu: 维基
 permalink: /wiki/
 ---
 
-<!-- > 记多少命令和快捷键会让脑袋爆炸呢？ -->
+~~WIKI是什么鬼，能吃吗？~~
+~~专门记一些不正经的东西。。~~
 
 <ul class="listing">
 {% for wiki in site.wiki %}
