@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: 我的一个Oier朋友
+title: 【歌词】我的一个Oier朋友
 categories: 
 description: 我的一个Oier朋友
 keywords: 
