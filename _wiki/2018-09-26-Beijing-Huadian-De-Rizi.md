@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: 北京华电的日子
-categories: 歌词
+categories: 歌词 life
 description: 北京华电的日子
 keywords: 北京华电的日子
 ---

@@ -1,8 +1,8 @@
 ---
 layout: wiki
-title: define
+title: define写的A+B
 categories: cpp life
-description: some word here
+description: 
 keywords: 
 ---
 
