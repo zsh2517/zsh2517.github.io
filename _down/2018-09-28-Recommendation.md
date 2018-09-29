@@ -8,15 +8,13 @@ keywords:
 # 软件列表
 ---
 ## IDE
-OI Packages C/C++
-
 OI Packages All
 
-VSCode
+OI Packages C/C++
 
-DEVCPP Portable
+DEVCPP [Portable]
 
---
+VSCode/Sublime/Emacs/Vim 等通用IDE
 
 ## 聊天
 
@@ -46,9 +44,9 @@ Local Judge(少见)
 
 ## 浏览器
 
-Chrome/Cent Browser
+Chrome/Cent Browser（XP请下载49.0版本，百度Chrome for XP）
 
-搜狗、360等有WEBKIT或者Chromium内核
+搜狗、360等有WEBKIT或者Chromium内核的
 
 Firfox 等其他优秀内核
 
