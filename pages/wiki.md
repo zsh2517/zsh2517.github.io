@@ -3,7 +3,7 @@ layout: page
 title: Wiki
 description: WIKI是什么鬼、、
 keywords: 维基, W
-comments: false
+comments: true
 menu: 维基
 permalink: /wiki/
 ---

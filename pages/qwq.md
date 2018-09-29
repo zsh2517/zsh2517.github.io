@@ -3,7 +3,7 @@ layout: page
 title: qwq
 description: 人越学越觉得自己无知
 keywords: 维基, qwq
-comments: false
+comments: true
 menu: 测试分区
 permalink: /qwq/
 ---

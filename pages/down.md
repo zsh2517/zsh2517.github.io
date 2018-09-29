@@ -3,7 +3,7 @@ layout: page
 title: down
 description: 人越学越觉得自己无知
 keywords: down
-comments: false
+comments: true
 menu: 下载
 permalink: /down/
 ---
