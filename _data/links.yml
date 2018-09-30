@@ -1,18 +1,23 @@
 - name: Capella
   url: https://www.cnblogs.com/capella
 
+- name: DP123
+  url: https://www.luogu.org/space/show?uid=84121
+
+- name: Juan_feng
+  url: https://www.luogu.org/space/show?uid=66965
+
 - name: maoxiangui
   url: http://www.maoxiangui.com/
-
-- name: memset0
-  url: https://memset0.cn
 
 - name: makico
   url: http://makico.xyz/
 
+- name: memset0
+  url: https://memset0.cn
+
 - name: new2zy
   url: https://www.luogu.org/blog/new2zy/
-
 
 - name: poorpool
   url: http://yxchen.net
@@ -20,8 +25,9 @@
 - name: 苏卿念
   url: https://www.cnblogs.com/cn-suqingnian/
 
-- name: Juan_feng
-  url: https://www.luogu.org/space/show?uid=66965
+
+
+
 
 # - name: 其他大佬
 #   url: http://blog.zsh2517.xyz/links/
