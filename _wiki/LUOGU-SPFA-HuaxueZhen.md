@@ -4,6 +4,7 @@ title: 【歌词】化学镇 By.spfa
 categories: 
 description: 化学镇
 keywords: 
+show: true
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 ---

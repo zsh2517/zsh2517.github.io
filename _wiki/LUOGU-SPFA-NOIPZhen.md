@@ -4,6 +4,7 @@ title: 【歌词】NOIP镇 By.spfa
 categories: 
 description: NOIP镇
 keywords: 
+show: true
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 

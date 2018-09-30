@@ -4,6 +4,7 @@ title: 【歌词】燃烧我的计算机
 categories: 
 description: 燃烧我的计算机
 keywords: 
+show: true
 ---
 
 《燃烧我的计算机》

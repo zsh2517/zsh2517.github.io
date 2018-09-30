@@ -4,6 +4,7 @@ title: 【歌词】北京华电的日子
 categories: 歌词 life
 description: 北京华电的日子
 keywords: 北京华电的日子
+show: true
 ---
 
 作者：[@八重樱](https://www.luogu.org/space/show?uid=31890)

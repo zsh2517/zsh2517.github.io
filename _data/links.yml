@@ -4,18 +4,23 @@
 - name: maoxiangui
   url: http://www.maoxiangui.com/
 
-- name: new2zy
-  url: https://www.luogu.org/blog/new2zy/
+- name: memset0
+  url: https://memset0.cn
 
 - name: makico
   url: http://makico.xyz/
 
-# - name: 其他大佬
-#   url: http://blog.zsh2517.xyz/links/
+- name: new2zy
+  url: https://www.luogu.org/blog/new2zy/
+
 
 - name: poorpool
   url: http://yxchen.net
 
 - name: 苏卿念
   url: https://www.cnblogs.com/cn-suqingnian/
+
+# - name: 其他大佬
+#   url: http://blog.zsh2517.xyz/links/
+
 

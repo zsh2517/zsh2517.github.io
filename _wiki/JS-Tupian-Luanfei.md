@@ -4,6 +4,7 @@ title: JS代码让图标乱飞。。
 categories: life js
 description: js代码让图标乱飞
 keywords: 
+show: true
 ---
 浏览器-F12，切换到console，粘贴代码即可。
 ```javascript

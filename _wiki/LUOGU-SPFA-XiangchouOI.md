@@ -4,6 +4,7 @@ title: 乡愁OI版 By.spfa
 categories: 
 description: 乡愁OI版
 keywords: 
+show: true
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 

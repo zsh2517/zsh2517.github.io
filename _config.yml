@@ -28,35 +28,35 @@ email: 865564024@qq.com
 navs:
   -
     href: /
-    label: 首页
+    label: Index
 
   -
     href: /categories/
-    label: 分类
+    label: Category
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: Archive
 
   -
     href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
+    label: Wiki
 
   -
     href: /down/
-    label: 下载
+    label: Download
 
   -
     href: /qwq/
-    label: 测试分区
+    label: Test
+
+  -
+    href: /links/
+    label: Friend
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
@@ -94,7 +94,7 @@ collections:
         permalink: /down/:path/
 
     qwq:
-        output: true
+        output: false
         permalink: /qwq/:path/
 
 repository: zsh2517/newblog

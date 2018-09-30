@@ -4,6 +4,7 @@ title: Wiki Template
 categories: [cate1, cate2]
 description: some word here
 keywords: keyword1, keyword2
+show: false
 ---
 
 数学是火，点亮物理的灯

@@ -4,6 +4,7 @@ title: 诗一首 By.spfa
 categories: 
 description: 诗一首
 keywords: 
+show: true
 ---
 作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 
