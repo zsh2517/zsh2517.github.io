@@ -4,6 +4,7 @@ title: 如何新建一个blog分区？
 categories: blog
 description: 
 keywords: 
+show: true
 ---
 
 1.page里面复制一个wiki为new.md,全文替换
