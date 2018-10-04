@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Links
+title: Friends
 description: 没有链接的博客是孤独的
 keywords: 友情链接
 comments: true
-menu: 链接
+menu: Friends
 permalink: /links/
 ---
 

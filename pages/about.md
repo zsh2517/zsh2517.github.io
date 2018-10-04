@@ -4,7 +4,7 @@ title: About
 description: 打码改变世界
 keywords: zhshh zsh 2517
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 

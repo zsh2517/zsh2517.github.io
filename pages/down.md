@@ -1,10 +1,10 @@
 ---
 layout: page
-title: down
+title: Download
 description: 人越学越觉得自己无知
-keywords: down
+keywords: Download
 comments: true
-menu: 下载
+menu: Download
 permalink: /down/
 ---
 

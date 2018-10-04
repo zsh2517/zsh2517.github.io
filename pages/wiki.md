@@ -4,7 +4,7 @@ title: Wiki
 description: WIKI是什么鬼、、
 keywords: 维基, W
 comments: true
-menu: 维基
+menu: Wiki
 permalink: /wiki/
 ---
 

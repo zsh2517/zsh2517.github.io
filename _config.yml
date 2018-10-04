@@ -32,11 +32,11 @@ navs:
 
   -
     href: /categories/
-    label: Category
+    label: Categories
 
   -
     href: /archives/
-    label: Archive
+    label: Archives
 
   -
     href: /wiki/
@@ -52,7 +52,7 @@ navs:
 
   -
     href: /links/
-    label: Friend
+    label: Friends
 
   -
     href: /about/
