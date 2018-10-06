@@ -30,17 +30,15 @@ keywords: 考前注意事项 warnings
 
 大的定义到主程序否则会爆栈，比如这个，在子程序会爆，然而主程序没事
 
-比如在开始的时候写`memset(xx,-1,sizeof(xx));//xx是内存占用大的变量。`之后`while(1)`，然后看任务管理器内存多大。（不要忘了删掉，因为memset既占时间也没啥用**（在这里）**）
+比如在开始的时候写`memset(xx,-1,sizeof(xx));//xx是内存占用大的变量。`之后`while(1)`，然后看任务管理器内存多大。（不要忘了删掉，因为memset既占时间也没啥用**（在这里仅仅是一个调试）**）
 
+对于下面代码
 ```cpp
 #define MX 1000010
 
-int vis[MX]={0};
-int dis[MX];
-```
-对于下面代码
-```cpp
 void dijkstra(int bgn){
+    int vis[MX]={0};
+    int dis[MX];
     cout<<"***";
     int vis[MX]={0};
     int dis[MX];
@@ -59,7 +57,6 @@ RE情况很多，比如数组越界，变量太大，递归太深，`scanf`不`&
 **如果WER没有Disabled，才会弹出停止运行警告！**
 
 返回值在cmd里面是`%errorlevel%`，比如输出是`echo %errorlevel%`
-
 
 ## 调试
 
@@ -92,6 +89,14 @@ int main(){
 D    printf("DEBUG MESSAGE");
 }
 ```
+
+4.标准错误流
+
+除了常用的标准输入`stdin`（`scanf` `cin`），标准输出流`stdout`（`printf` `cout`），还有标准错误流`stderr`（似乎要`fprintf(stderr,"%d",a)`，没找到相关的C函数，或者C++的`cerr`）
+
+对于平常的`freopen`，`stdin` `stdout`来说，`cerr`直接输出到屏幕，所以更方便。
+
+**评测是否考虑错误流未知！务必删掉以避免错误**
 
 ## 文件操作
 
@@ -156,3 +161,10 @@ for(int i=1;i<=n;i++){
 1.闪退不一定是因为崩溃（崩溃如果是dev普通运行会结束到返回值界面），很有可能是因为读入少了（个别版本有问题）
 
 2.在Dev下，F10运行调用的是dev目录下的`consolepauser.exe yours.exe`，因此大部分情况不会出现闪退，而是自身结束，然后留到consolepauser程序界面（就是最后显示运行时间和返回的）。而F5调用的是gdb，如果不确定在哪出问题，可以试试F5单步调试。**（不要依赖，因为dev很悬。。各种BUG，还有的不支持调试）**
+
+
+# 未完待续！
+
+```
+UPD:2018-10-06-23-14
+```
