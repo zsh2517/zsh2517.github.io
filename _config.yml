@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://blog.zsh2517.xyz
+url: http://zsh2517.xyz
 date_format: "ordinal"
 title: zsh2517
 subtitle: ""
