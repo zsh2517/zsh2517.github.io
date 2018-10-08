@@ -22,7 +22,9 @@ keywords: 考前注意事项 warnings
 
 5.例如`memset`，`strlen`，`strstr`等和字符串处理相关的函数在库`<cstring>`中；`abs`在`<cstdlib>`中；`fabs`，`sin`，`sqrt`等数学函数在`<cmath>`中(来自 [提交时G++、C++的区别](https://blog.csdn.net/disparity_cjk/article/details/53261160)）
 
-6.一些库文件有特殊的变量名，比如`time`（`time.h`里面的`time()`），`nan` `y0` `y1`等等都在`cmath`库里面定义了变量等。
+6.一些库文件有特殊的变量名，比如`time`（`time.h`里面的`time()`），`nan` `y0` `y1`等等都在`cmath`库里面定义了变量等。cmath:`x1` `y1` others:`count` `max` `min` `round` `distance`
+
+>如果记不住例外情况，那么可以用拼音，而不是单词命名。而且如果把元音删掉也会少不少。比如（`next`->`nxt`）以及缩写（`distance`->`dis`）
 
 ## 变量
 
@@ -30,7 +32,7 @@ keywords: 考前注意事项 warnings
 
 大的定义到主程序否则会爆栈，比如这个，在子程序会爆，然而主程序没事
 
-比如在开始的时候写`memset(xx,-1,sizeof(xx));//xx是内存占用大的变量。`之后`while(1)`，然后看任务管理器内存多大。（不要忘了删掉，因为memset既占时间也没啥用**（在这里仅仅是一个调试）**）
+比如在开始的时候写`memset(xx,-1,sizeof(xx));//xx是内存占用大的变量。`之后`while(1)`，然后看任务管理器内存多大。（不要忘了删掉，因为memset在这里既占时间也没啥用**（在这里仅仅是一个调试）**）
 
 对于下面代码
 ```cpp
@@ -53,6 +55,14 @@ void dijkstra(int bgn){
 RE情况很多，比如数组越界，变量太大，递归太深，`scanf`不`&`等等
 
 出现情况是返回不为0。
+
+3.初始化
+
+根据测试（一般电脑、评测机）
+
+`a[10010]={0}`\<`memset(a,0,sizeof(a))`\<`for(int i=0;i<10010;i++)a[i]=0;`
+
+如果需要赋值非零的，`memset`是字节填充，也就是说INF最大是`0x7f7f7f7f`（`memset` `0x7f`），如果是有相加操作，最大是`0x3f3f3f3f`），即填充（`0x3f`）
 
 **如果WER没有Disabled，才会弹出停止运行警告！**
 
@@ -97,6 +107,10 @@ D    printf("DEBUG MESSAGE");
 对于平常的`freopen`，`stdin` `stdout`来说，`cerr`直接输出到屏幕，所以更方便。
 
 **评测是否考虑错误流未知！务必删掉以避免错误**
+
+### 暴力
+
+暴力一定写。如果正解写不出来，直接交暴力，如果写出来了，暴力用来对拍。
 
 ## 文件操作
 

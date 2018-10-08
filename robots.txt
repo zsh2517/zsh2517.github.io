@@ -1,0 +1,2 @@
+Sitemap: http://zsh2517.xyz/sitemap.xml
+Disallow：/school_ftp
