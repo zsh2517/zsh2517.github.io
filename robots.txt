@@ -1,2 +1,3 @@
 Sitemap: http://zsh2517.xyz/sitemap.xml
-Disallow：/school_ftp
+User-agent:*Disallow: /school_ftp
+
