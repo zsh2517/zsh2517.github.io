@@ -1,10 +1,10 @@
 ---
 layout: page
-title: qwq
+title: Test
 description: 人越学越觉得自己无知
 keywords: 维基, qwq
-comments: true
-menu: Test
+comments: false
+menu: 测试
 permalink: /qwq/
 ---
 

@@ -4,7 +4,7 @@ title: Friends
 description: 没有链接的博客是孤独的
 keywords: 友情链接
 comments: true
-menu: Friends
+menu: 朋友
 permalink: /links/
 ---
 

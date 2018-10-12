@@ -17,10 +17,6 @@ permalink: /categories/
 <li class="posts-list-item">
 <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
 <a class="posts-list-name" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-<font face="consolas" color="#66ccff"> | Tags.</font> 
-{% for tag in post.tags %}
-<a class="posts-tag" href="#tag{{tag}}"><font face="consolas" color="#66ccff">{{ tag }}</font></a>
-{% endfor %}
 </li>
 {% endfor %}
 </ol>

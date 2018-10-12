@@ -4,7 +4,7 @@ title: Download
 description: 人越学越觉得自己无知
 keywords: Download
 comments: true
-menu: Download
+menu: 下载
 permalink: /down/
 ---
 

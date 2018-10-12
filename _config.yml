@@ -28,35 +28,35 @@ email: 865564024@qq.com
 navs:
   -
     href: /
-    label: Index
+    label: 首页
 
   -
     href: /categories/
-    label: Categories
+    label: 索引
 
   -
     href: /archives/
-    label: Archives
+    label: 归档
 
   -
     href: /wiki/
-    label: Wiki
+    label: 百科
 
   -
     href: /down/
-    label: Download
+    label: 下载
 
   -
     href: /qwq/
-    label: Test
+    label: 测试
 
   -
     href: /links/
-    label: Friends
+    label: 朋友
 
   -
     href: /about/
-    label: About
+    label: 关于
 
 # ---------------- #
 #       RSS        #

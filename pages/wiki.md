@@ -2,9 +2,9 @@
 layout: page
 title: Wiki
 description: WIKI是什么鬼、、
-keywords: 维基, W
-comments: true
-menu: Wiki
+keywords: 维基, Wiki
+comments: false
+menu: 百科
 permalink: /wiki/
 ---
 
