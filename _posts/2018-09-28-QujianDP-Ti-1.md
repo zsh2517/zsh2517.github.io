@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 区间DP
-categories: DP 题解
+categories: solution
 description: some word here
 keywords: DP 区间 动态规划
+tags: DP
 ---
 
 # 定义

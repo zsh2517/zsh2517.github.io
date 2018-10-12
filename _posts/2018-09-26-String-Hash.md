@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 字符串和hash
-categories: OI 知识 字符串 hash 算法
+categories: algorithm
 description: 字符串和字符串hash
 keywords: 字符串 hash
-
+tags: 字符串 hash
 ---
 
 <span id = "mdgototop"></span>

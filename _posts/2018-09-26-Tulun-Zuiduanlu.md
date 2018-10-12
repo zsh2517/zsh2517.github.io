@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 最短路问题
-categories: OI 图论 最短路 知识 算法
+categories: algorithm
 description: 常见的图论算法
 keywords: 图论 最短路 BFS dijkstra SPFA floyd
+tags: 最短路 图论
 ---
 
 <span id = "mdgototop"></span>

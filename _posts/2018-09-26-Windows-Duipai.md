@@ -1,9 +1,10 @@
 ---
 layout: post
 title: windows下对拍及其应用
-categories: OI 对拍 实用
+categories: trick
 description: windows下面的对拍介绍
 keywords: windows 对拍
+tags: 考试技巧 对拍
 ---
 
 # windows下对拍及其应用

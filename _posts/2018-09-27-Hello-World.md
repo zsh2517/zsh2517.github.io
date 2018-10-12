@@ -4,6 +4,7 @@ title: Hello, World!
 categories: blogs
 description: Hello, World!--第一个页面
 keywords: blogs
+tags: blogs
 ---
 
 Hello, World!

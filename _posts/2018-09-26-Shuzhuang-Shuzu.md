@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 树状数组
-categories: OI 知识 树状数组 数据结构
+categories: structure algorithm
 description: 树状数组的各种应用
 keywords: 树状数组 线段树 区间
+tags: 树状数组 线段树 区间
 ---
 
 <span id = "mdgototop"></span>

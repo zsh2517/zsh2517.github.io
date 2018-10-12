@@ -2,34 +2,15 @@
 <h3>欢迎关注我的微信公众号</h3>
 <img style="border:1px solid #dddddd;height:192px;width:192px" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
 {% endif %} -->
-<script>
-    (function(){
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-        }
-        else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
-</script>
-<!--百度收录推送-->
-    
 <h5>访客计数（AmazingCounters）</h5>
 <p>独立IP</p>
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3226984&c=9681265"
             alt="AmazingCounters.com"></a></div>
-{% if site.url contains 'zsh2517.xyz' %}
+{% unless site.url contains 'localhost' %}
 <p>AllHits</p>
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3227057&c=9681484"
             alt="AmazingCounters.com"></a></div>
-{% endif %}
-{% if site.url contains 'localhost' %}
-<p>为了计数君的好好休息。。localhost访问已屏蔽Hits计数器</p>
-{% endif %}
+{% endunless %}
 <!-- <p>第二个似乎都是我调试blog用掉的。。。</p> -->
 <!-- <p>现在已经屏蔽了localhost的访问</p> -->
 <p></p>

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 并查集
-categories: OI 知识 并查集 数据结构
+categories: structure
 description: 简化版本的并查集
 keywords: 并查集 
+tags: 并查集
 ---
 
 # 并查集

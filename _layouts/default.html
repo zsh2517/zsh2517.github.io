@@ -1,3 +1,61 @@
+<style type="text/css">
+    .qwq{
+        filter:alpha(opacity=30);
+        opacity=0.5;
+    }
+    </style>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- 数学公式支持
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+              tex2jax: {
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+              }
+            });
+        
+            MathJax.Hub.Queue(function() {
+                var all = MathJax.Hub.getAllJax(), i;
+                for(i=0; i < all.length; i += 1) {
+                    all[i].SourceElement().parentNode.className += ' has-jax';
+                }
+            });
+        </script>      
+        <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script> 
+    -->
+{% if site.url contains 'zsh2517.xyz' %}
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!--百度收录推送-->
+
+{% endif %}
+<script>
+    // 浏览器标题切换  
+    var OriginTitile = document.title;    // 保存之前页面标题  
+    var titleTime;
+    document.addEventListener('visibilitychange', function () {
+        if (document.hidden) {
+            document.title = '你不要我了么？qwq';
+            clearTimeout(titleTime);
+        } else {
+            document.title = '我喜欢你啊。';
+            titleTime = setTimeout(function () {
+                document.title = OriginTitile;
+            }, 1000); // 2秒后恢复原标题  
+        }
+    });  
+</script>
 {% include header.html %}
-    {{ content }}
+{{ content }}
 {% include footer.html %}

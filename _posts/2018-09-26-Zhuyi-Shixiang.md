@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 考前注意事项
-categories: OI 实用
+categories: trick
 description: 考前注意事项
 keywords: 考前注意事项 warnings
+tags: 考试技巧
 ---
 
 # 注意事项

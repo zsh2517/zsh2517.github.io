@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 二分和三分
-categories: OI 二分 知识 算法
+categories: algorithm
 description: 常见的二分算法，一些错误还没有更正。
 keywords: 二分答案 二分查找 三分算法
+tags: 二分
 ---
 
 # 二分和三分
