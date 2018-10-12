@@ -70,10 +70,14 @@
     <script src="{{ site.url }}/assets/js/jquery-ui.js"></script>
     <script src="{{ site.url }}/assets/js/main.js"></script>
 </head>
-<!-- <style>.{{ page.class }}{
-     background-size:100% 100%;-moz-background-size:100% 100%;
-}</style> -->
-<body class="{{ page.class }}" data-mz="{{ page.class }}" background="{{ site.url }}/images/blog/bg2.jpg">
+<style type="text/css">
+.{{ page.class }}{
+    /* background-size:100% 100%;
+    -moz-background-size:100% 100%;         */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}</style>
+<body class="{{ page.class }}" data-mz="{{ page.class }}" background="{{ site.url }}/images/blog/bg2.jpg" >
     <!-- style="background-color: rgba(255,255,255,0.5);
     background-image: url(https://gss0.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/86d6277f9e2f07088ab175d0e524b899a801f2ae.jpg);
         background-position: 40% 15%;
