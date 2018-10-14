@@ -46,9 +46,9 @@ navs:
     href: /down/
     label: 下载
 
-  -
-    href: /qwq/
-    label: 测试
+#   -
+#     href: /qwq/
+#     label: 测试
 
   -
     href: /links/
@@ -93,9 +93,9 @@ collections:
         output: true
         permalink: /down/:path/
 
-    qwq:
-        output: true
-        permalink: /qwq/:path/
+    # qwq:
+    #     output: false
+    #     permalink: /qwq/:path/
 
 repository: zsh2517/newblog
 

@@ -5,6 +5,7 @@ categories: algorithm
 description: 常见的二分算法，一些错误还没有更正。
 keywords: 二分答案 二分查找 三分算法
 tags: 二分
+show: true
 ---
 
 # 二分和三分

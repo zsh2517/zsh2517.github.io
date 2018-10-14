@@ -5,6 +5,7 @@ categories: trick
 description: 考前注意事项
 keywords: 考前注意事项 warnings
 tags: 考试技巧
+show: true
 ---
 
 # 注意事项

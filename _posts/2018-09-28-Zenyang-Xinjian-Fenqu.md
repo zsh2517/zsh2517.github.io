@@ -1,9 +1,10 @@
 ---
-layout: qwq
+layout: post
 title: 如何新建一个blog分区？
 categories: blog
-description: 
+description: 如何新建一个blog分区？
 keywords: 
+tags: 
 show: true
 ---
 

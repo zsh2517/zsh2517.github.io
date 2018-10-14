@@ -5,6 +5,7 @@ categories: trick
 description: windows下面的对拍介绍
 keywords: windows 对拍
 tags: 考试技巧 对拍
+show: true
 ---
 
 # windows下对拍及其应用

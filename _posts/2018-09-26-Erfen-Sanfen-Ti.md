@@ -5,6 +5,7 @@ categories: solution
 description: 二分三分题
 keywords: 二分答案 二分查找 三分算法
 tags: 二分
+show: true
 ---
 
 <span id = "mdgototop"></span>

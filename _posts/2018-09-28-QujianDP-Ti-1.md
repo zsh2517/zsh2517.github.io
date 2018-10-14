@@ -5,6 +5,7 @@ categories: solution
 description: some word here
 keywords: DP 区间 动态规划
 tags: DP
+show: true
 ---
 
 # 定义

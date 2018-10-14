@@ -5,6 +5,7 @@ categories: structure
 description: 简化版本的并查集
 keywords: 并查集 
 tags: 并查集
+show: true
 ---
 
 # 并查集

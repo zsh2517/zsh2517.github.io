@@ -5,6 +5,7 @@ categories: structure algorithm
 description: some word here
 keywords: 线段树 区间 数据结构
 tags: 线段树 区间
+show: true
 ---
 
 <span id = "mdgototop"></span>

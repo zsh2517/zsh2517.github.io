@@ -5,6 +5,7 @@
     }
 </style>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- <script type="text/javascript" src="/assets/js/MathJax2.js"></script> -->
 <!-- 数学公式支持
         <script type="text/x-mathjax-config">
             MathJax.Hub.Config({
@@ -40,6 +41,8 @@
 <!--百度收录推送-->
 
 {% endif %}
+<!-- 代码般透明化 -->
+{% include header.html %}
 <script>
     // 浏览器标题切换  
     var OriginTitile = document.title;    // 保存之前页面标题  
@@ -56,7 +59,5 @@
         }
     });  
 </script>
-<!-- 代码般透明化 -->
-{% include header.html %}
 {{ content }}
 {% include footer.html %}

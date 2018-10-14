@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Hello, World!
-categories: blogs
+categories: blog
 description: Hello, World!--第一个页面
-keywords: blogs
-tags: blogs
+keywords: blog
+tags: blog
+show: true
 ---
 
 Hello, World!
