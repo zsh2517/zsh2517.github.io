@@ -366,18 +366,11 @@
 }
 
 .highlight .k {
-    color: rgb(148, 0, 123);
     font-weight: 700
 }
 
 .highlight .o {
-    /* font-weight: 700; */
-    color: rgb(182, 0, 0)
-}
-
-.highlight .p {
-    font-weight: 700;
-    color: rgb(42, 58, 0)
+    font-weight: 700
 }
 
 .highlight .cm {
@@ -386,13 +379,13 @@
 }
 
 .highlight .cp {
-    /* font-weight: 700; */
-    color: rgb(119, 119, 36)
+    font-weight: 700;
+    color: #999
 }
 
 .highlight .c1 {
-    font-style: consolas;
-    color: rgb(3, 98, 0)
+    font-style: italic;
+    color: #998
 }
 
 .highlight .cs {
@@ -476,7 +469,7 @@
 
 .highlight .kt {
     font-weight: 700;
-    color: #00F
+    color: #458
 }
 
 .highlight .m {
@@ -551,8 +544,7 @@
 }
 
 .highlight .mi {
-    color: #099;
-    font-weight: bold
+    color: #099
 }
 
 .highlight .mo {

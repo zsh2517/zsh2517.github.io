@@ -1,9 +1,9 @@
 {% if page.comments != false %}
-
-  {% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
-    <a href="#" class="show_disqus_comment" onclick="return false;">Show Disqus Comments</a>
-    <div id="disqus_thread"></div>
-    <script>
+{% unless site.url contains 'localhost' %}
+{% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
+<a href="#" class="show_disqus_comment" onclick="return false;">Show Disqus Comments</a>
+<div id="disqus_thread"></div>
+<script>
     var disqus_config = function () {
         this.page.url = '{{ site.url }}{{ page.url }}';
         this.page.identifier = '{{ page.url }}';
@@ -33,22 +33,22 @@
     })
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-  {% endif %}
-
-  {% case site.comments_provider %}
+    {% endif %}
+    
+    {% case site.comments_provider %}
     {% when 'disqus' %}
-      {% if site.disqus and site.disqus.username %}
-        {% assign load_disqus = true %}
-        <!-- Disqus Protection, see https://github.com/mzlogin/mzlogin.github.io/issues/2 -->
-        {% if site.disqus.username == 'mzlogin' %}
-          {% assign load_disqus = false %}
-          {% if site.url contains 'mazhuang.org' %}
-            {% assign load_disqus = true %}
-          {% endif %}
-        {% endif %}
-        {% if load_disqus %}
-          <div id="disqus_thread"></div>
-          <script>
+    {% if site.disqus and site.disqus.username %}
+    {% assign load_disqus = true %}
+    <!-- Disqus Protection, see https://github.com/mzlogin/mzlogin.github.io/issues/2 -->
+    {% if site.disqus.username == 'mzlogin' %}
+    {% assign load_disqus = false %}
+    {% if site.url contains 'mazhuang.org' %}
+    {% assign load_disqus = true %}
+    {% endif %}
+    {% endif %}
+    {% if load_disqus %}
+    <div id="disqus_thread"></div>
+    <script>
             var disqus_config = function () {
               this.page.url = '{{ site.url }}{{ page.url }}';
               this.page.identifier = '{{ page.url }}';
@@ -68,13 +68,13 @@
             })();
           </script>
           <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-        {% endif %}
-      {% endif %}
-    {% when 'gitment' %}
-        <div id="container"></div>
-        <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-        <script>
+          {% endif %}
+          {% endif %}
+          {% when 'gitment' %}
+          <div id="container"></div>
+          <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+          <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+          <script>
         var gitment = new Gitment({
             id: '{{ page.url | truncate: 50, '' }}',
             owner: '{{ site.gitment.owner }}',
@@ -87,11 +87,11 @@
         gitment.render('container')
         </script>
     {% when 'gitalk' %}
-        <div id="gitalk-container"></div>
-        <link rel="stylesheet" href="/assets/css/gitalk/gitalk.css">
-        <!-- https://unpkg.com/gitalk@1.4.0/dist/gitalk.css.map -->
-        <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-        <script>
+    <div id="gitalk-container"></div>
+    <link rel="stylesheet" href="/assets/css/gitalk/gitalk.css">
+    <!-- https://unpkg.com/gitalk@1.4.0/dist/gitalk.css.map -->
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
         var gitalk = new Gitalk({
             id: '{{ page.url | truncate: 50, '' }}',
             clientID: '{{ site.gitalk.clientID }}',
@@ -105,4 +105,6 @@
         gitalk.render('gitalk-container')
         </script>
   {% endcase %}
-{% endif %}
+  {% endunless %}
+  {% endif %}
+  

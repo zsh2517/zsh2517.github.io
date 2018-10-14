@@ -14,7 +14,7 @@ permalink: /categories/
     {% assign sorted_tags = site.tags | sort %}
     {% for tag in sorted_tags %}
     <!-- <li class="list-group-item"> -->
-    <a href="#{{ tag[0] }}">{{ tag | first }}[{{ tag[1].size }}]</a>
+    <a href="#tag{{ tag[0] }}">{{ tag | first }}[{{ tag[1].size }}]</a>
     <!-- <span class="badge">{{ tag[1].size }}</span> -->
     <!-- </li> -->
     {% endfor %}
