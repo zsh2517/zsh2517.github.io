@@ -416,16 +416,16 @@
 
 .markdown-body table td,.markdown-body table th {
     padding: 6px 13px;
-    border: 1px solid #ddd
+    border: 1px solid rgba(0,0,0,0.3);
 }
 
 .markdown-body table tr {
-    background-color: #fff;
-    border-top: 1px solid #ccc
+    background-color: rgba(255,255,255,0.3);
+    border-top: 1px solid rgba(0,0,0,0.3);
 }
 
 .markdown-body table tr:nth-child(2n) {
-    background-color: #f8f8f8
+    background-color: rgba(0,0,0,0.05);
 }
 
 .markdown-body img {

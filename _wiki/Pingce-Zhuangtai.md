@@ -4,7 +4,7 @@ title: 评测机状态介绍→_→
 categories: 
 description: 评测机状态
 keywords: 
-show: true
+show: false
 ---
 
 AC=Answer Coarse=粗劣的答案
