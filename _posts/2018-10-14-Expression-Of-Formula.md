@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数学代数部分的英文表达
-categories: English
+categories: english
 description: 数学代数部分的英文表达
 keywords: 
 tags: 
