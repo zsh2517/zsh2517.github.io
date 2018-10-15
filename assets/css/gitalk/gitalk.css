@@ -577,7 +577,7 @@
 .markdown-body table th,
 .markdown-body table td {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 1px solid rgba(0,0,0,0.3);
 }
 
 .markdown-body table tr {
