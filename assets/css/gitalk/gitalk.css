@@ -581,8 +581,8 @@
 }
 
 .markdown-body table tr {
-  background-color: #fff;
-  border-top: 1px solid #c6cbd1;
+  /* background-color: #fff;
+  border-top: 1px solid #c6cbd1; */
 }
 
 .markdown-body table tr:nth-child(2n) {
