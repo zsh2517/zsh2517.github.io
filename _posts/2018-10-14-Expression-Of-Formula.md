@@ -41,15 +41,15 @@ show: true
 
 ### 数学用语
 
-| 手写方式、名称 | 英文读法 |
-| :--: | :-- |
+| 手写方式、名称 | 英文读法 | 音标 |
+| :--: | :-- | :-- |
 | 正弦定理 | the sine rule |
 | 余弦定理 | the cosine rule | 
-| 小数点 | radian['reɪdɪən] |
-| 转换 | convert[kən'vɜːt] | 
-| 小数点 | decimal['desɪm(ə)l] |
+| 小数点 | radian | ['reɪdɪən] |
+| 转换 | convert | [kən'vɜːt] | 
+| 小数点 | decimal | ['desɪm(ə)l] |
 | 求值 | determine,evaluate |
-| 括号 | brackets['brækɪts] |
+| 括号 | brackets | ['brækɪts] |
 | 定义域 | domine |
 | 值域 | range |
 | 开闭区间 | open/closed interval |
@@ -107,14 +107,14 @@ show: true
 
 | 英文 | 读音 | 汉语 |
 | :-- | :-- | :-- |
-| quadratic func |  | 二次曲线 |
+| quadratic func | [kwɒ'drætɪk] | 二次曲线 |
 | parabola | [pə'ræb(ə)lə] | 抛物线 |
-| cubic func | | 三次函数 |
+| cubic func | ['kjuːbɪk] | 三次函数 |
 | reciprocal func | [rɪ'sɪprək(ə)l] | 反比例函数 |
 | exponential func | [,ekspə'nenʃ(ə)l] | 指数函数 |
 | logarithmic func | [,lɒgə'rɪðmɪk] | 对数函数 |
-| piecewise defined func |  | 分段函数 | 
-| composite func |  | 复合函数 |
+| piecewise defined func | ['pɪs,waɪs] | 分段函数 | 
+| composite func | ['kɒmpəzɪt] | 复合函数 |
 | polynome | [pɔlino:m] | 多项式 |
 | coefficient | [kɔefisjɑ̃] | 系数 |
 | degree | | 级数 | 
@@ -164,11 +164,7 @@ $
 | eigenvalue | 特征值 |['aɪgən,væljuː] |
 | eigenvector | 特征向量 |
 
-$find\ the\ value\ of\ a_n\ in\ terms\ of\ a-1,n,d \\ \ for\ each\ positive\ integer\ n\in R$
-
-## 用语
-| 用语 | 含义 |
-| --: | :-- |
+$find\ the\ value\ of\ a_n\ in\ terms\ of\ a_1,n,d \ for\ each\ positive\ integer\ n\in R$
 
 ## 统计与概率
 
@@ -197,7 +193,7 @@ related expression
 | 汉语/符号 | 英语 |
 | --: | :-- |
 | A和B的比例 | The ratio of A to B |
-| $f(x)=3*x+2$ | F X equals three times X plus two |
+| $f(x)=3\times x+2$ | F X equals three times X plus two |
 | A和B正相关 | A and B are positively correlated. |
 | A正相关 于 B | A is positively related to B |
 | A | A is linearly related to B. | 
