@@ -58,7 +58,7 @@ show: true
 | $$]$$ | close bracket | 右方括号 |
 | $$[\ ]$$ | square brackets | 方括号 |
 | $$.$$ | period, dot | 句号，点 |
-| $$|$$ | vertical bar, vertical virgule | 竖线 |
+| `|` | vertical bar, vertical virgule | 竖线 |
 | $$\&$$ | ampersand, and, reference, ref | 和，引用 |
 | $$*$$ | asterisk, multiply, star, pointer | 星号，乘号，星，指针 |
 | $$/$$ | slash, divide, oblique | 斜线，斜杠，除号 |
