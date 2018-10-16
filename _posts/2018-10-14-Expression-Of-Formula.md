@@ -14,28 +14,28 @@ show: true
 
 |符号|读法|
 |----:|:----|
-| $$a\times b$$ | a times b |
-| $$a\times b$$ | a multiplied by b |
-| $$a/b$$ | a over b, a divided by b |
-| $$a^b$$ | a to b, a to the power of b |
-| $$-x$$ | negative |
-| $$x^2$$ | x square |
-| $$x^3$$ | x cube |
-| $$log_{a}{b}$$ | log b base a |
-| $$\sqrt{x}$$ | square root of x |
-| 计算$$sin(30\degree)$$ | Let do sin 30 degree |
-| $$-\frac{3}{5}$$ | negative three-fifth |
-| $$7\frac{2}{5}$$ | seven **and** two fifth |
-| $$sin,cos,tan$$ | sine,cosine,tangent |
+| $a\times b$ | a times b |
+| $a\times b$ | a multiplied by b |
+| $a/b$ | a over b, a divided by b |
+| $a^b$ | a to b, a to the power of b |
+| $-x$ | negative |
+| $x^2$ | x square |
+| $x^3$ | x cube |
+| $log_{a}{b}$ | log b base a |
+| $\sqrt{x}$ | square root of x |
+| 计算$sin(30\degree)$ | Let do sin 30 degree |
+| $-\frac{3}{5}$ | negative three-fifth |
+| $7\frac{2}{5}$ | seven **and** two fifth |
+| $sin,cos,tan$ | sine,cosine,tangent |
 
 ### 四则运算
 
-| 符号  | 运算名称 | A X B $$= ans$$ |
+| 符号  | 运算名称 | A X B $= ans$ |
 | :--: | :--: | :--: |
-| $$+$$ | addition(add) | A and\plus B |
-| $$-$$ | subtraction(subtract) | A minus B |
-| $$\times$$ | multiplication(multiply) | A times\multiplied by B |
-| $$\div$$ | division(divide) | A divided by B | 
+| $+$ | addition(add) | A and\plus B |
+| $-$ | subtraction(subtract) | A minus B |
+| $\times$ | multiplication(multiply) | A times\multiplied by B |
+| $\div$ | division(divide) | A divided by B | 
 
 [来自 简书](https://www.jianshu.com/p/23feb92656b4)
 
@@ -63,17 +63,17 @@ show: true
 
 | 形式 | 名称 | 读音 | 定义 |
 | :--: | :-- | :-- | :-- |
-| 复数 | complex number |  | $$a+bi,(a\in R,b\in R)$$
+| 复数 | complex number |  | $a+bi,(a\in R,b\in R)$
 | 实数 | real number |  |
 | 有理数 | rational number | ['ræʃ(ə)n(ə)l] |
 | 无理数 | irrational number | [ɪ'ræʃ(ə)n(ə)l] |
 | 整数 | integer | ['ɪntɪdʒə] |
 | 正整数 | positive integer | |
-| $$0$$ | zero | |
+| $0$ | zero | |
 | 负整数 | negative integer | |
-| 虚数 | imaginary number | | $$a+bi (a\in R,b\in R,b≠0)$$ | 
-| 纯虚数 | purely imaginary number | | $$bi,a=0,b\neq0$$ |
-| $$i$$ | purely imaginary number of modulus 1 | | 模长为 1 的纯虚数 |
+| 虚数 | imaginary number | | $a+bi (a\in R,b\in R,b≠0)$ | 
+| 纯虚数 | purely imaginary number | | $bi,a=0,b\neq0$ |
+| $i$ | purely imaginary number of modulus 1 | | 模长为 1 的纯虚数 |
 | modulus | 模 | | |
 
 
@@ -83,12 +83,12 @@ show: true
 
 | 分数形式 | 读法 | 特点 |
 | ---: | :---: | :--- |
-|$$\frac{1}{2}$$ | a/one half |二分之一，必须用half |
-|$$\frac{1}{3}$$ | one third | 分子是1，用单数 |
-|$$\frac{2}{3}$$ | two thirds | 分子不是1，分母复数 |
-|$$\frac{1}{4}$$ | one forth one quarter | 四分之一都可以 |
-|$$\frac{3}{4}$$ | three forths three quarters | 四分之三都可以 |
-|$$5\frac{2}{3}$$ | five **and** two thirds | 带分数必须用and连接分数和数字 |
+|$\frac{1}{2}$ | a/one half |二分之一，必须用half |
+|$\frac{1}{3}$ | one third | 分子是1，用单数 |
+|$\frac{2}{3}$ | two thirds | 分子不是1，分母复数 |
+|$\frac{1}{4}$ | one forth one quarter | 四分之一都可以 |
+|$\frac{3}{4}$ | three forths three quarters | 四分之三都可以 |
+|$5\frac{2}{3}$ | five **and** two thirds | 带分数必须用and连接分数和数字 |
 | | 分数 | fraction [ˈfrækʃn] |
 | | 真分数 | a proper fraction |
 | | 假分数 | an improper fraction |
@@ -98,8 +98,8 @@ show: true
 | 项目 | 注意 |
 | :-: | :- |
 |有关连字符 | 如果是名词，都行，如果是定语，必须连字符 |
-|$$\frac{1}{3}$$ (of the) students are| 可数用复数 |
-|$$\frac{1}{3}$$ (of the) water is| 不可数用单数 |
+|$\frac{1}{3}$ (of the) students are| 可数用复数 |
+|$\frac{1}{3}$ (of the) water is| 不可数用单数 |
 
 ## 函数
 
@@ -121,13 +121,13 @@ show: true
 | linear models | [ˈlɪniə(r)] | 线性模型 |
 | y is linear func of x | | y是关于x的线性函数 |
 
-$$
+$
 f(x)=
 \begin{cases}
 \text{something}& \text{x=0}\\
 \text{something}& \text{x!=0}
 \end{cases}
-$$  
+$ 
 
 ### 函数性质
 
@@ -141,7 +141,7 @@ $$
 | periodic func | 周期函数 | [,pɪərɪ'ɒdɪk] |
 | period | 周期 |  |
 | minimal positive period | 最小正周期 | ['mɪnɪm(ə)l] |
-| have period $$2\pi$$ | 有一个$$2π$$的周期 |
+| have period $2\pi$ | 有一个$2π$的周期 |
 | rational | adj. 合理的；理性的 |
 
 ## 集合 
@@ -164,4 +164,40 @@ $$
 | eigenvalue | 特征值 |['aɪgən,væljuː] |
 | eigenvector | 特征向量 |
 
-$$find\ the\ value\ of\ a_n\ in\ terms\ of\ a-1,n,d \\ \ for\ each\ positive\ integer\ n\in R$$
+$find\ the\ value\ of\ a_n\ in\ terms\ of\ a-1,n,d \\ \ for\ each\ positive\ integer\ n\in R$
+
+## 用语
+| 用语 | 含义 |
+| --: | :-- |
+
+## 统计与概率
+
+| 英文 | 中文 | 发音 |
+| :-- | :-- | :-- |
+| absolute | 绝对值 |
+|expected value | 期望值 |
+| independent variable | 自变量 |
+| dependent variable | 因变量 |
+| equation | 方程 |
+| error | 误差 |
+| range of error | 误差范围 |
+| frequency | 频数 |
+| extreme value | 极值 |
+| maximum | 最大值 |
+| minimum | 最小值 |
+| median | 中位数 |
+| mean | 平均值 |
+| mode | 众数 |
+|positive correlated | 正相关 |
+|negative correlated | 负相关 |
+|probability | 概率 |
+| proportion | 比例 |
+
+related expression
+| 汉语/符号 | 英语 |
+| --: | :-- |
+| A和B的比例 | The ratio of A to B |
+| $f(x)=3*x+2$ | F X equals three times X plus two |
+| A和B正相关 | A and B are positively correlated. |
+| A正相关 于 B | A is positively related to B |
+| A | A is linearly related to B. | 

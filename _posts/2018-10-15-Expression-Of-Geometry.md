@@ -95,5 +95,11 @@ And a is x-coordinate in x-axis, b is y-coordinate in y-axis.
 | regular triangle prism | 正三棱柱 |
 ||
 | **几何关系** |
-| tangency |
-|
+| tangency | 相切 |
+| intersect | 相交 |
+| the respective point of tangency | 切点 |
+| intersectional chord | 公共弦 | | intersect at point P
+| gravity | 重心 | 
+| orthochenter | 垂心 |
+| circum center/excenter | 外心 |
+| in center | 内心 |
