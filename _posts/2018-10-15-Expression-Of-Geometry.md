@@ -103,3 +103,26 @@ And a is x-coordinate in x-axis, b is y-coordinate in y-axis.
 | orthochenter | 垂心 |
 | circum center/excenter | 外心 |
 | in center | 内心 |
+
+
+| 英文 | 中文 | 音标 |
+| :-- | :-- | :-- |
+| coordinate system | 坐标系 |
+| rectangular coordinate | 直角坐标系 |
+| origin | 原点 |
+| abscissa | 横坐标 |
+| ordinate | 纵坐标 |
+| numberline | 数轴 |
+| quadrant | 象限 |
+| slope | 斜率 |
+| complex plane | 复平面 |
+| plane geometry | 平面几何 |
+| trigonometry | 三角学 |
+| bisect | 平分 |
+| circumscribe | 外切 |
+| inscribe | 内切 |
+| intersect | 相交 |
+| perpendicular | 垂直 |
+| pythagorean theorem | 勾股定理 |
+| congruent | 全等的 |
+| multilateral | 多边的 |
