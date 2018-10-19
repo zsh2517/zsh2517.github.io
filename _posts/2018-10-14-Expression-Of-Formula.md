@@ -18,14 +18,14 @@ show: true
 | $$a\times b$$ | a multiplied by b |
 | $$a/b$$ | a over b, a divided by b |
 | $$a^b$$ | a to b, a to the power of b |
-| $$-x$$ | negative |
+| $$-x$$ | negative x |
 | $$x^2$$ | x square |
 | $$x^3$$ | x cube |
 | $$log_{a}{b}$$ | log b base a |
 | $$\sqrt{x}$$ | square root of x |
 | $$\sqrt[3]{x}$$| the third root of X |
-| 计算$$sin(30\degree)$$ | Let do sin 30 degree |
-| $$-\frac{3}{5}$$ | negative three-fifth |
+| 计算$$sin(30\degree)$$ | Let do sin thirty degree |
+| $$-\frac{3}{5}$$ | negative three fifths |
 | $$7\frac{2}{5}$$ | seven **and** two fifth |
 | $$sin,cos,tan$$ | sine,cosine,tangent |
 
