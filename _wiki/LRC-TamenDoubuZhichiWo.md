@@ -3,7 +3,7 @@ layout: wiki
 title: 【歌词】他们都不支持我 OI版
 categories: 
 description: 【歌词】他们都不支持我 OI版
-keywords: 
+keywords: 歌词 他们都不支持我 OI
 show: true
 ---
 

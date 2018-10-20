@@ -9,6 +9,8 @@ show: true
 
 作者：[@八重樱](https://www.luogu.org/space/show?uid=31890)
 
+QBXT 2017
+
 开始的开始,我们都是萌新
 
 最后的最后,渴望变成神犇

@@ -1,12 +1,12 @@
 ---
 layout: wiki
-title: 【歌词】NOIP镇 By.spfa
+title: 【歌词】NOIP镇
 categories: 
 description: NOIP镇
 keywords: 
 show: true
 ---
-作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
+转载：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 
 听说津津为课程烦恼 金明一家住进了新房 
 

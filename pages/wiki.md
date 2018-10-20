@@ -10,7 +10,8 @@ permalink: /wiki/
 
 ~~WIKI是什么鬼，能吃吗？~~
 
-专门记一些~~不正经~~（奇怪）的东西。。
+**大佬**们的经典作品 
+<!-- 专门记一些~~不正经~~（奇怪）的东西。。 -->
 
 <ul class="listing">
 {% for wiki in site.wiki %}

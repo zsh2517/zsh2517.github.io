@@ -1,12 +1,12 @@
 ---
 layout: wiki
-title: 【歌词】化学镇 By.spfa
+title: 【歌词】化学镇
 categories: 
 description: 化学镇
 keywords: 
 show: true
 ---
-作者：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
+转载：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 ---
 
 听说铁在氧气中燃烧 煤油能隔绝钠的杂氧

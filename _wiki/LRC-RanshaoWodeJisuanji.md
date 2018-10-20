@@ -2,7 +2,7 @@
 layout: wiki
 title: 【歌词】燃烧我的计算机
 categories: 
-description: 燃烧我的计算机
+description: 【歌词】燃烧我的计算机
 keywords: 
 show: true
 ---

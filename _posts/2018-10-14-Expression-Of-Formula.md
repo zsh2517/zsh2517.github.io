@@ -38,6 +38,8 @@ show: true
 | $$\times$$ | multiplication(multiply) | A times\multiplied by B |
 | $$\div$$ | division(divide) | A divided by B | 
 
+division [di'viʒən]
+
 [来自 简书](https://www.jianshu.com/p/23feb92656b4)
 
 ### 数学用语
@@ -54,10 +56,10 @@ show: true
 | 定义域 | domine |
 | 值域 | range |
 | 开闭区间 | open/closed interval |
-| 区间 | interval |
+| 区间 | interval | ['ɪntəv(ə)l] |
 | 值 | value |
 | 零点 | zero |
-| 导数 | derivative |
+| 导数 | derivative | [dI'rIvətIv]
 
 ## 数
 
@@ -78,7 +80,6 @@ show: true
 
 ## 表达
 
-related expression
 | 汉语/符号 | 英语 |
 | --: | :-- |
 | A和B的比例 | The ratio of A to B |
@@ -87,6 +88,7 @@ related expression
 | A正相关 于 B | A is positively related to B |
 | A | A is linearly related to B. | 
 | 趋近于 | tend to |
+
 ## 分数专题
 
 ### 读法
@@ -181,7 +183,7 @@ $$find\ the\ value\ of\ a_n\ in\ terms\ of\ a_1,n,d \ for\ each\ positive\ integ
 | 英文 | 中文 | 发音 |
 | :-- | :-- | :-- |
 | absolute | 绝对值 |
-|expected value | 期望值 |
+| expected value | 期望值 |
 | independent variable | 自变量 |
 | dependent variable | 因变量 |
 | equation | 方程 |
@@ -194,8 +196,7 @@ $$find\ the\ value\ of\ a_n\ in\ terms\ of\ a_1,n,d \ for\ each\ positive\ integ
 | median | 中位数 |
 | mean | 平均值 |
 | mode | 众数 |
-|positive correlated | 正相关 |
-|negative correlated | 负相关 |
-|probability | 概率 |
+| positive correlated | 正相关 |
+| negative correlated | 负相关 |
+| probability | 概率 |
 | proportion | 比例 |
-
