@@ -10,10 +10,10 @@
   name: 865564024 (ID zsh) 单击打开QQ
   url: tencent://message/?uin=865564024
 
-- sitename: QQ邮箱
-  name: 865564024@qq.com (单击发信)
-  url: mailto:865564024@qq.com
+- sitename: MAIL
+  name: blog@zsh2517.com
+  url: mailto:blog@zsh2517.com
 
-- sitename: Outlook邮箱
-  name: zhang2517@outlook.com (单击发信)
-  url: mailto:zhang2517@outlook.com
+- sitename: QQ邮箱
+  name: QQ邮箱备用。QQ号如上。
+  url: JavaScript:alert("请手动复制QQ。。qwq")
