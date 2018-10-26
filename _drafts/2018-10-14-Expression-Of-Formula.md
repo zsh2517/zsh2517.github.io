@@ -48,7 +48,6 @@ division [di'viʒən]
 | :--: | :-- | :-- |
 | 正弦定理 | the sine rule |
 | 余弦定理 | the cosine rule | 
-| 小数点 | radian | ['reɪdɪən] |
 | 转换 | convert | [kən'vɜːt] | 
 | 小数点 | decimal | ['desɪm(ə)l] |
 | 求值 | determine,evaluate |
@@ -60,6 +59,8 @@ division [di'viʒən]
 | 值 | value |
 | 零点 | zero |
 | 导数 | derivative | [dI'rIvətIv]
+
+<!-- n| 小数点 | radian | ['reɪdɪən] | -->
 
 ## 数
 
