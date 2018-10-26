@@ -7,6 +7,14 @@ keywords: 北京华电的日子
 show: true
 ---
 
+<p><a href="https://www.bilibili.com/video/av34652069">北京华电的日子（bilibili播放）</a></p>
+
+---
+
+**注意：视频有一些问题，比如调音等。不过由于时间等问题，暂时无法重置。。。如果有什么意见欢迎评论（下面或者是bilibili都行）**
+
+其他联系方式？<a href="/about/">关于</a>
+
 作者：[@八重樱](https://www.luogu.org/space/show?uid=31890)
 
 QBXT 2017
