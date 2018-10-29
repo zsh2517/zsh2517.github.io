@@ -16,7 +16,7 @@ qwq
     <a href="qwq"><p>http://localhost:4000/labs/stoorz/?a=<span id="AfterBase64">XXX</span></a>    </p> -->
     <script type="text/javascript">
         function showURL() {
-            var preurl="http://localhost:4000/labs/stoorz/?a=";
+            var preurl="/labs/stoorz/?a=";
             var message = document.getElementById("usernameqwqwq").value;
             message=Base64.encode(Base64.encode(Base64.encode(message)));
             // var element = document.getElementById("AfterBase64");
@@ -24,7 +24,7 @@ qwq
             //for Firefox
             // element.innerHTML =  message;
             //for IE (why can't we all just get along?)
-            document.write("<html><head><title>URL</title></head><body><p>URL</P><a href=\""+preurl+message+"\">"+preurl+message+"</a></body></html>");
+            document.write("<html><head><title>URL</title></head><body><p>URL</P><a href=\""+preurl+message+"\">"+"open!</a></body></html>");
             return true;
         }
     </script>
