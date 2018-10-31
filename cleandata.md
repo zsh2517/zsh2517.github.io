@@ -70,3 +70,7 @@ CNAME 改成自定义域名。没有的话删掉
 favicon.ico 网站图标（必须是ICO格式。。我用的原博主的。。懒得改）
 robots.txt 爬虫设置（一般没啥用）
 school_ftp.md 给学校里的一个临时FTP，删掉
+
+## 修改信息
+
+根目录的_config.yml和_data文件夹。改一下
