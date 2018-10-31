@@ -1,6 +1,6 @@
 ---
-layout: down
-title: down Template
+layout: project
+title: project Template
 categories: 
 description: 
 keywords: 

@@ -1,6 +1,6 @@
----
+- --
 layout: post
-title: template page
+title: Luogu2296 寻找到路 
 categories: 
 description: 
 keywords: 

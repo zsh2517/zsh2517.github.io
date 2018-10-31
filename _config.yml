@@ -43,8 +43,8 @@ navs:
     label: 百科
 
   -
-    href: /down/
-    label: 下载
+    href: /project/
+    label: 项目
 
 #   -
 #     href: /qwq/
@@ -89,7 +89,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-    down:
+    project:
         output: true
         permalink: /down/:path/
 
