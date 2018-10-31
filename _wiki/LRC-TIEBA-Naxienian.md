@@ -6,6 +6,7 @@ description: 【歌词】那些年之OI版
 keywords: 歌词 那些年 OI 
 show: true
 ---
+{% include LRC-show.md %}
 
 [贴吧地址](http://tieba.baidu.com/p/2682187457?pstaala=2)
 

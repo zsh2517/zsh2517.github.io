@@ -1,11 +1,12 @@
 ---
 layout: wiki
-title: 【歌词】我的一个Oier朋友
+title: 【歌词】【WC2018】我的一个Oier朋友
 categories: 
-description: 我的一个Oier朋友
+description: 【歌词】【WC2018】我的一个Oier朋友
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 https://www.bilibili.com/video/av19448254
 

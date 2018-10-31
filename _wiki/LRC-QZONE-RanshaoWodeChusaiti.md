@@ -6,6 +6,7 @@ description: 【歌词】燃烧我的初赛题
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 作者：@luv_letters,@legend_noa 
 
@@ -59,9 +60,7 @@ fa♂Q拒绝并查集
 
 破池姐姐最牛逼！
 
-<!-- 破池姐姐最牛逼
-
-破池姐姐最牛逼！
+<!-- 
 
 ~~FaQ~~
 

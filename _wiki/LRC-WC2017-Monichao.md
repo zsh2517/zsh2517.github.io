@@ -1,11 +1,12 @@
 ---
 layout: wiki
-title: 【歌词】膜你抄
+title: 【歌词】【WC2017】膜你抄
 categories: 
-description: 膜你抄
+description: 【歌词】【WC2017】膜你抄
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 | 项目 | ~~值~~ |
 | --: | :-- |

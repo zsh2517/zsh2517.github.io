@@ -6,6 +6,7 @@ description: 【歌词】他们都不支持我 OI版
 keywords: 歌词 他们都不支持我 OI
 show: true
 ---
+{% include LRC-show.md %}
 
 [贴吧 《他们都不支持我》歌词](http://tieba.baidu.com/p/2883322463)
 

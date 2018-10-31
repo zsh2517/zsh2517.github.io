@@ -6,10 +6,12 @@ description: 【歌词】数鸭子（评测鸭 duck.ac）
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 [原文](https://duck.ac/blog/5)
 
 ---
+
 
 清华校园里，有只评测鸭。
 

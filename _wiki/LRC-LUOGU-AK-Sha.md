@@ -6,6 +6,7 @@ description: 【歌词】AK杀
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 | 项目 | 值 |
 | --: | :-- |
@@ -16,6 +17,7 @@ show: true
 | 指导 | [ouuan](https://www.luogu.org/space/show?uid=49742) |
 | 哔哩哔哩 | [【OI】AK杀](https://www.bilibili.com/video/av33665499) |
 | 洛谷原贴 | [LUOGU](https://www.luogu.org/discuss/show/71771) |
+
 # AK杀
 
 ---

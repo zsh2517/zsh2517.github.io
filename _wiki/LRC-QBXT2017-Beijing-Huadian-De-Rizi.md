@@ -6,6 +6,7 @@ description: 北京华电的日子
 keywords: 北京华电的日子
 show: true
 ---
+{% include LRC-show.md %}
 
 <p><a href="https://www.bilibili.com/video/av34652069">北京华电的日子（bilibili播放）</a></p>
 

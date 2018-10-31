@@ -6,6 +6,7 @@ description: 【歌词】燃烧我的计算机
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
 
 《燃烧我的计算机》
 
@@ -78,4 +79,5 @@ UML用例图，加密解密路由器。
 (计算机，计算机，计算机，计算机）
 
 燃烧我的计算机！
+
 

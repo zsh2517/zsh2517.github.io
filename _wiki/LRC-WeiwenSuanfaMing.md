@@ -4,8 +4,9 @@ title: 【歌词】我们仍未知道那天所看见的算法的名字
 categories: 
 description: 【歌词】我们仍未知道那天所看见的算法的名字
 keywords: 
-show: false
+show: true
 ---
+{% include LRC-show.md %}
 
 $$\color{red}{如果有错的提醒更正}$$
 

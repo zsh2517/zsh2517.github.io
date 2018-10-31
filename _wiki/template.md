@@ -1,12 +1,10 @@
 ---
 layout: wiki
-title: Wiki Template
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: temple pages
+categories: 
+description: 【歌词】【OI】
+keywords: 
 show: false
 ---
 
-Content here
-
-保存UTF8QWQ
+这是模板页面。。。

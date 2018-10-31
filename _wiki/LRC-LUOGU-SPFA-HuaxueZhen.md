@@ -6,6 +6,8 @@ description: 化学镇
 keywords: 
 show: true
 ---
+{% include LRC-show.md %}
+
 转载：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
 ---
 
