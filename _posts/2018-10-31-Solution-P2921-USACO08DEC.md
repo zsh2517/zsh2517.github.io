@@ -2,7 +2,7 @@
 layout: post
 title: P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm
 categories: solution
-description: P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm，题目和信息传递类似，不同的是这个题要求出每个点的长度。方法一样，标记+染色。$$qwq$$
+description: P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm，题目和信息传递类似，不同的是这个题要求出每个点的长度。方法一样，标记+染色。
 keywords: 
 tags: 模拟 搜索
 show: true
