@@ -71,6 +71,18 @@ kramdown:
     input: GFM
 highlighter: rouge
 paginate: 10
+paginate_path: "home/page:num"
+excerpt_separator:  '<!-- more -->'
+# {{ post.excerpt }}
+# 然后，在index.html中：
+
+# {{ post.excerpt }}
+# 一般情况下，摘要需要去掉html标签，所以一般这样用：
+
+# {{ post.excerpt | strip_html }}
+# 然后，和前一种方法一样，在摘要后面加<!-- more --> 即可。
+
+# https://www.cnblogs.com/coderzh/p/jekyll-readmore.html
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"

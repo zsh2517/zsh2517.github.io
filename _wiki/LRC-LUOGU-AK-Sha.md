@@ -5,6 +5,8 @@ categories:
 description: 【歌词】AK杀
 keywords: 
 show: true
+showauthor: false
+author: sooke
 ---
 {% include LRC-show.md %}
 

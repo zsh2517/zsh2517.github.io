@@ -6,6 +6,7 @@ description: P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm，�
 keywords: 
 tags: 模拟 搜索
 show: true
+updatetime: 2018-11-01
 ---
 
 题目链接[P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm](https://www.luogu.org/problemnew/show/P2921)

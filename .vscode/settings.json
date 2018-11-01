@@ -1,1 +1,4 @@
-{}
+{
+    "code-runner.defaultLanguage": "markdown",
+    "files.autoGuessEncoding": true
+}

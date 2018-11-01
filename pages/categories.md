@@ -24,8 +24,8 @@ permalink: /categories/
 <p><h2>分类</h2></p>
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
-<h3>{{ category | first }}</h3>
 <ol class="posts-list" id="{{ category[0] }}">
+<h3>{{ category | first }}</h3>
 {% for post in category.last %}
 <li class="posts-list-item">
 <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
@@ -42,8 +42,8 @@ permalink: /categories/
 <p><h2>标签</h2></p>
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
-<h3>{{ tag | first }}</h3>
 <ol class="posts-list" id="tag{{tag[0]}}">
+<h3>{{ tag | first }}</h3>
 {% for post in tag.last %}
 <li class="posts-list-item">
 <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>

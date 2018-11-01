@@ -10,6 +10,8 @@ show: true
 
 [贴吧地址](http://tieba.baidu.com/p/2682187457?pstaala=2)
 
+[bilibili](https://www.bilibili.com/video/av843535/)
+
 # 前序若干：
 
 >**OI的世界带来的一切，足以改变一生。**
