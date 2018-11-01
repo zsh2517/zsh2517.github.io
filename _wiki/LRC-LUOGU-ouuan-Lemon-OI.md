@@ -5,12 +5,14 @@ categories:
 description: 【歌词】【OI】Lemon
 keywords: 
 show: true
+showauthor: true
+author: ouuan
 ---
 {% include LRC-show.md %}
 
-转载：[【luogu】@spfa](https://www.luogu.org/space/show?uid=17850)
-
-[URL](https://www.luogu.org/paste/7vzrwr8d)
+| 歌词地址 | [URL](https://www.luogu.org/paste/7vzrwr8d) |
+| 葛平版本 | [【oi】Lemon](http://www.bilibili.com/video/av32324742) |
+| chen_zhe | [【oi】Lemon](http://www.bilibili.com/video/av32947866) |
 
 ---
 

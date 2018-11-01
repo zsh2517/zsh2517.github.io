@@ -5,12 +5,14 @@ categories:
 description: 【歌词】【OI】咖喱咖喱
 keywords: 
 show: true
+showauthor: true
+author: Forinser_666
 ---
 {% include LRC-show.md %}
 
 转载自：[luogu讨论](https://www.luogu.org/discuss/show/75727)
 
-作者：[Forinser_666@luogu](https://www.luogu.org/space/show?uid=125665)
+---
 
 门前网吧上，洛谷测评机
 
