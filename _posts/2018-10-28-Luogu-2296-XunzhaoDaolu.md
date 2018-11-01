@@ -1,11 +1,11 @@
-- --
+---
 layout: post
-title: Luogu2296 寻找到路 
+title: 【题解】Luogu2296 寻找到路 
 categories: 
 description: 
 keywords: 
-tags: 
-show: false
+tags: 搜索
+show: true
 ---
 
 [P2296 寻找道路](https://www.luogu.org/problemnew/show/P2296)
