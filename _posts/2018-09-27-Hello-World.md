@@ -6,6 +6,7 @@ description: Hello, World!--第一个页面
 keywords: blog
 tags: blog
 show: true
+ads: true
 ---
 
 Hello, World!
@@ -21,5 +22,3 @@ Hello, World!
 如果有什么排版之类的错误，敬请见谅并提示留言。
 
 下面广告是测试。看看就好。当然如果你点了我会感谢您
-
-{% include adsense.html %}
