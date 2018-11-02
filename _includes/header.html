@@ -2,11 +2,16 @@
 <html lang="zh-cmn-Hans" prefix="og: http://ogp.me/ns#" class="han-init">
 <head>
     <script>
+        if(window.location.search=="?force"){
+            window.location="/slide/indexpage";
+        }
         console.log(document.referrer.indexOf("zsh2517.xyz"));
         console.log(window.location.pathname);
-        if(document.referrer.indexOf("zsh2517.xyz")<0 && window.location.pathname=="/"){
+        console.log(window.location.search);
+        console.log(window.location.search!="?notjump");
+        if((!(document.referrer.indexOf("zsh2517.xyz")>=0 || document.referrer.indexOf("localhost")>=0)) && window.location.pathname=="/"){
             if(window.location.search!="?notjump"){
-                window.location="/slide/demo";
+                window.location="/slide/indexpage";
             }
         }
     </script>
