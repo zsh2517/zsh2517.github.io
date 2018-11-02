@@ -13,7 +13,7 @@ updatetime: 2018-11-01
 
 题目和信息传递类似，不同的是这个题要求出每个点的长度。方法一样，标记+染色。
 
-```
+```cpp
 #include <iostream>
 #include <stack>
 #include <cstdio>

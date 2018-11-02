@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="zh-cmn-Hans" prefix="og: http://ogp.me/ns#" class="han-init">
 <head>
+    <script>
+        if(document.referrer.indexOf("zsh2517.xyz")>0 && window.location.pathname=="/"){
+            console.log(document.referrer.indexOf("zsh2517.xyz"));
+            console.log(win.location.pathname);
+            if(window.location.search!="?notjump"){
+                window.location="/slide/demo";
+            }
+        }
+    </script>
     {% if page.ads %}
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script>

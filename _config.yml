@@ -70,7 +70,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 10
+paginate: 6
 paginate_path: "home/page:num"
 excerpt_separator:  '<!-- more -->'
 # {{ post.excerpt }}
@@ -103,7 +103,7 @@ collections:
 
     project:
         output: true
-        permalink: /down/:path/
+        permalink: /project/:path/
 
     # qwq:
     #     output: false
