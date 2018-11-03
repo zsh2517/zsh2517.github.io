@@ -18,3 +18,25 @@ show: true
 推荐链接
 
 - [中文文案排版指北（简体中文版）](https://github.com/mzlogin/chinese-copywriting-guidelines)
+
+---
+
+其他说明：
+
+基于原模板添加修改的东西
+
+1. POST的tag标签。
+
+2. 部分CSS。
+
+3. MathJax （原来的好像没找到怎么用。。）
+
+4. 首页。由于Jekyll不支持除了`/index.html`之外的页面调用分页功能。。采用JS实现跳转到新的首页。。
+
+    跳转条件：通过URL或者非同域网站进入首页（index.html，默认不显示）。跳转到`reveal.js`页面。路径是`slide/indexpage#/`
+
+    这里添加指向首页的链接。
+
+    `head.html`中，定义了强制性跳转 `?force` 和强制性不跳转 `notjump` 两个参数。便于调试。（只在jekyll页面有效。）
+
+暂时先到这
