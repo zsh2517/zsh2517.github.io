@@ -29,7 +29,7 @@ show: true
 
 2. 部分CSS。
 
-3. MathJax （原来的好像没找到怎么用。。）
+3. MathJax （原来的好像没找到怎么用。。）后来切换到了本地Katex模式 [help](https://www.jianshu.com/p/bb184f61c9ae)
 
 4. 首页。由于Jekyll不支持除了`/index.html`之外的页面调用分页功能。。采用JS实现跳转到新的首页。。
 

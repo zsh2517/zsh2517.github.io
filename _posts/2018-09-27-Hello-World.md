@@ -22,3 +22,18 @@ Hello, World!
 如果有什么排版之类的错误，敬请见谅并提示留言。
 
 下面广告是测试。看看就好。当然如果你点了我会感谢您
+
+
+$$\LaTeX \text{自己造多好}$$
+
+$$\colorbox{#5eb95e}{\color{white}{Accepted}}\ \ \color{#5eb95e}{100}$$
+
+$$\colorbox{#e74c3c}{\color{white}{\text{Unaccepted}}}\ \ \color{#e74c3c}{0}$$
+
+$$\colorbox{#f1c40f}{\color{white}{\text{Compile err}}}\ \ \color{black}{\text{N/A}}$$
+
+$$\colorbox{#8e44ad}{\text{\color{white}{比赛}}}$$
+
+和markdown放到一块的链接。
+
+[$$\colorbox{#5eb95e}{\color{white}{\text{Luogu}}}\colorbox{#e74c3c}{\color{white}{luogu3.0}}\colorbox{#8e44ad}{\text{\color{white}{Click qwq}}}$$](https://www.luogu.org)
