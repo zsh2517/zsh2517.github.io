@@ -7,6 +7,7 @@ keywords:
 author: zsh2517
 time: 持续更新
 show: true
+ads: yes
 ---
 
 博客采用`Jekyll`制作。基于**[mzlogin@GitHub](https://github.com/mazhuang)**的**[博客](https://mazhuang.org)**修改。

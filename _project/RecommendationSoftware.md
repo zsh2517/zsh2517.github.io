@@ -7,8 +7,9 @@ keywords:
 author: zsh2517
 time: 2018-09-28
 show: false
-# intro: 软件下载列表
+ads: yes
 ---
+<!-- # intro: 软件下载列表 -->
 # 软件列表
 ---
 ## IDE
