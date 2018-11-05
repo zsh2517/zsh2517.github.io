@@ -7,7 +7,7 @@ keywords:
 author: zsh2517
 time: 2018-09-28
 show: true
-ads: yes
+ads_u_share: true
 ---
 
 ### 洛谷讨论

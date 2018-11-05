@@ -6,7 +6,7 @@ keywords: Project
 comments: false
 menu: 项目
 permalink: /project/
-ads: yes
+ads_u_share: true
 ---
 
 > 分享是一种美德。

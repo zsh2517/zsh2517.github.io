@@ -6,7 +6,7 @@ description: Hello, World!--第一个页面
 keywords: blog
 tags: blog
 show: true
-ads: true
+ads_u_share: true
 ---
 
 Hello, World!
