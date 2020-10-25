@@ -74,11 +74,11 @@
         if(window.location.search=="?force"){
             window.location="/slide/indexpage";
         }
-        console.log(document.referrer.indexOf("zsh2517.xyz"));
+        console.log(document.referrer.indexOf("zsh2517.github.io"));
         console.log(window.location.pathname);
         console.log(window.location.search);
         console.log(window.location.search!="?notjump");
-        if((!(document.referrer.indexOf("zsh2517.xyz")>=0 || document.referrer.indexOf("localhost")>=0)) && window.location.pathname=="/"){
+        if((!(document.referrer.indexOf("zsh2517.github.io")>=0 || document.referrer.indexOf("localhost")>=0)) && window.location.pathname=="/"){
             if(window.location.search!="?notjump"){
                 window.location="/slide/indexpage";
             }
